@@ -243,7 +243,7 @@
             },
             error: function(){
               $("#msg").show();
-              $('#msg').html("Please try again later");
+              $('#msg').html("Invalid Login Credentials|Please try again");
             },
             complete: function(){
               $('#submit-btn').html('Login');
